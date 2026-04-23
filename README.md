@@ -211,3 +211,26 @@ Visit: `https://<yourusername>.github.io/AI\\\_ProblemSolving\\\_<RegisterNumber
 |Vanilla JavaScript|Game logic, AI algorithms|
 |Google Fonts (Orbitron, Share Tech Mono)|Typography|
 
+Option 2: Play Online via GitHub Pages
+Visit: `https://<yourusername>.github.io/AI\\\\\\\_ProblemSolving\\\\\\\_<RegisterNumber>/`
+---
+📸 Sample Output
+Gameplay Screenshot
+![Gameplay](docs/gameplay_screenshot.png)
+Algorithm Comparison Panel
+![Comparison](docs/algorithm_comparison.png)
+Sample Node Count Data (recorded during testing)
+Move #	Empty Cells	Minimax Nodes	Alpha-Beta Nodes	Speedup
+1	9	5,478	709	7.7×
+2	7	1,024	223	4.6×
+3	5	252	87	2.9×
+4	3	18	14	1.3×
+---
+🛠️ Technologies Used
+Technology	Purpose
+HTML5	Structure and layout
+CSS3	Styling, animations, responsive design
+Vanilla JavaScript	Game logic, AI algorithms
+Google Fonts (Orbitron, Share Tech Mono)	Typography
+
+---
